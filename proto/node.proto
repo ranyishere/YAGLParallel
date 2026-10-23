@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+package yagl;
+
+message Node {
+    string key = 1;
+    string data = 2;
+}

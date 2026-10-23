@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/subgraph-iso-perf-test.dir/tests_main.cpp.o" "CMakeFiles/subgraph-iso-perf-test.dir/subgraph-iso-perf-test.cpp.o" -o subgraph-iso-perf-test

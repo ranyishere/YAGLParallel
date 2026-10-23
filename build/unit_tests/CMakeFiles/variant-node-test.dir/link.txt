@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/variant-node-test.dir/tests_main.cpp.o" "CMakeFiles/variant-node-test.dir/variant-data-test.cpp.o" -o variant-node-test

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libyagl_proto.a CMakeFiles/yagl_proto.dir/node.pb.cc.o
+/usr/bin/ranlib libyagl_proto.a

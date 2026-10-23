@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/proto-test.dir/tests_main.cpp.o" "CMakeFiles/proto-test.dir/proto-test.cpp.o" -o proto-test  ../libyagl_proto.a /usr/lib64/libprotobuf.so

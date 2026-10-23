@@ -1,0 +1,14 @@
+# Target labels
+ protobuf-populate
+# Source files and their labels
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/_deps/protobuf-subbuild/CMakeFiles/protobuf-populate
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/_deps/protobuf-subbuild/CMakeFiles/protobuf-populate.rule
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/_deps/protobuf-subbuild/CMakeFiles/protobuf-populate-complete.rule
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/_deps/protobuf-subbuild/protobuf-populate-prefix/src/protobuf-populate-stamp/protobuf-populate-build.rule
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/_deps/protobuf-subbuild/protobuf-populate-prefix/src/protobuf-populate-stamp/protobuf-populate-configure.rule
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/_deps/protobuf-subbuild/protobuf-populate-prefix/src/protobuf-populate-stamp/protobuf-populate-download.rule
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/_deps/protobuf-subbuild/protobuf-populate-prefix/src/protobuf-populate-stamp/protobuf-populate-install.rule
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/_deps/protobuf-subbuild/protobuf-populate-prefix/src/protobuf-populate-stamp/protobuf-populate-mkdir.rule
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/_deps/protobuf-subbuild/protobuf-populate-prefix/src/protobuf-populate-stamp/protobuf-populate-patch.rule
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/_deps/protobuf-subbuild/protobuf-populate-prefix/src/protobuf-populate-stamp/protobuf-populate-test.rule
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/_deps/protobuf-subbuild/protobuf-populate-prefix/src/protobuf-populate-stamp/protobuf-populate-update.rule

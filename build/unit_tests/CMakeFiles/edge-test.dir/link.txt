@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/edge-test.dir/tests_main.cpp.o" "CMakeFiles/edge-test.dir/edge-test.cpp.o" -o edge-test

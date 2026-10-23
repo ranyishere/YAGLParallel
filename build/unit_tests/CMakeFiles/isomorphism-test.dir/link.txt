@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/isomorphism-test.dir/tests_main.cpp.o" "CMakeFiles/isomorphism-test.dir/isomorphism-test.cpp.o" -o isomorphism-test

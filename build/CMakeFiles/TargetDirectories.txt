@@ -1,0 +1,17 @@
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/CMakeFiles/yagl_proto.dir
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/CMakeFiles/proto_gen.dir
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/CMakeFiles/edit_cache.dir
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/CMakeFiles/rebuild_cache.dir
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/unit_tests/CMakeFiles/node-test.dir
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/unit_tests/CMakeFiles/variant-node-test.dir
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/unit_tests/CMakeFiles/edge-test.dir
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/unit_tests/CMakeFiles/graph-test.dir
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/unit_tests/CMakeFiles/search-test.dir
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/unit_tests/CMakeFiles/isomorphism-test.dir
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/unit_tests/CMakeFiles/proto-test.dir
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/unit_tests/CMakeFiles/edit_cache.dir
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/unit_tests/CMakeFiles/rebuild_cache.dir
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/perf_tests/CMakeFiles/graph-perf-test.dir
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/perf_tests/CMakeFiles/subgraph-iso-perf-test.dir
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/perf_tests/CMakeFiles/edit_cache.dir
+/home/rany/Work/research/FoxFlow/src/tests/generated_tests/include/FoxFlowDGGML/dependencies/YAGL/build/perf_tests/CMakeFiles/rebuild_cache.dir
